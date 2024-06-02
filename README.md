@@ -1,0 +1,1 @@
+This repository contains a TensorFlow and Keras implementation for recognizing American Sign Language (ASL) gestures. The model is trained on a dataset of ASL images and can classify hand gestures representing letters or words.
